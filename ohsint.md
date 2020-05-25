@@ -1,4 +1,4 @@
-# OSINT(THM)
+# OHSINT(THM)
 
 OSINT refers to Open Source Intelligence so basically gathering all the information we can about something by just using open source tools.
 
@@ -20,4 +20,4 @@ On his GitHub we find out his email listed in a read.md
 
 ## WordPress Blog
 
-In there we find out where he went for a trip to Newyork and then when we inspect that paragraph element we can see the password there as well .
+In there we find out where he went for a trip to New York and then when we inspect that paragraph element we can see the password there as well .
